@@ -10,3 +10,5 @@ Number palindromes:
 And there are some prime numbers:
 
 ![primes](https://github.com/chocolatapie/Biggest-Palindrome/blob/master/primes.jpg)
+
+So , this app finds all 5-digit prime numbers (64601 ex.)

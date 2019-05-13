@@ -11,4 +11,5 @@ And there are some prime numbers:
 
 ![primes](https://github.com/chocolatapie/Biggest-Palindrome/blob/master/primes.jpg)
 
-So , this app finds all 5-digit prime numbers (64601 ex.)
+So , this app finds all 5-digit prime numbers (64601 ex.), multipes them, and findes, which multiplication is actually a **palindrome**,
+and finds the **biggest**.

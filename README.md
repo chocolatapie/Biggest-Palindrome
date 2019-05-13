@@ -7,5 +7,6 @@ So, lets dive deeper!
 Number palindromes: 
 ![palindromes](https://github.com/chocolatapie/Biggest-Palindrome/blob/master/Palindrome.jpg)
 
-And there are some prime numbers: 
+And there are some prime numbers:
+
 ![primes](https://github.com/chocolatapie/Biggest-Palindrome/blob/master/primes.jpg)

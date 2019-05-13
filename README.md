@@ -8,4 +8,4 @@ Number palindromes:
 ![palindromes](https://github.com/chocolatapie/Biggest-Palindrome/blob/master/Palindrome.jpg)
 
 And there are some prime numbers: 
-![primes](https://github.com/chocolatapie/Biggest-Palindrome/blob/master/primes.png)
+![primes](https://github.com/chocolatapie/Biggest-Palindrome/blob/master/primes.jpg)

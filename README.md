@@ -1,4 +1,4 @@
 # Biggest-Palindrome
 
-This console app is finding a [Palyndrome](https://en.wikipedia.org/wiki/Palindrome), actually the biggest 
-number-palyndrome, which is a multiplication of two 5-digit length [Prime](https://en.wikipedia.org/wiki/Prime_number) numbers.
+This console app is finding a [Palyndrome](https://en.wikipedia.org/wiki/Palindrome). Actually the biggest one
+number-palyndrome. And it mustg be  a multiplication of two 5-digit length [Prime](https://en.wikipedia.org/wiki/Prime_number) numbers.

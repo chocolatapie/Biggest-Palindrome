@@ -23,7 +23,7 @@ namespace ConsoleApp2
         }
 
         /// <summary>
-        /// Callback for timer, responsible for displaying messages for usr in console
+        /// Callback for timer, responsible for displaying messages for user in console
         /// </summary>
         public static void DisplayMessagesToUserInConsole(object obj)
         {
